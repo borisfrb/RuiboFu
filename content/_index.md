@@ -15,13 +15,13 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
+ #     button:
+ #       text: Download CV
+ #       url: uploads/resume.pdf
+ #   design:
+ #     css_class: dark
+ #     background:
+ #       color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          I’m an Associate Professor at QY Lab, focusing on speech information processing, deepfake detection, multimodal content understanding/generation, and LLM applications.
+        I explore cutting-edge AI technologies to enhance information authenticity and advance human-centric multimodal systems.
+        I warmly welcome academic collaborations, industry partnerships, and interdisciplinary projects. Students (undergraduate, master’s, or PhD) are encouraged to join our group for internships—let’s publish high-impact papers together!
+        Reach out for research opportunities or exciting ideas 😃
     design:
       columns: '1'
   - block: collection
