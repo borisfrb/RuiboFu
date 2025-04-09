@@ -1,9 +1,9 @@
 ---
 title: codecfake
-date: 2024-05
+date: 2024-05-06
 external_link: https://github.com/xieyuankun/Codecfake
 tags:
-  - Hugo
+  - Dataset
   - Wowchemy
   - Markdown
 ---
