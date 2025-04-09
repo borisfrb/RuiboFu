@@ -1,5 +1,5 @@
 ---
-title: codecfake
+title: CodecFake
 date: 2024-05-06
 external_link: https://github.com/xieyuankun/Codecfake
 tags:
