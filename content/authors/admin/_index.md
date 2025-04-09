@@ -99,8 +99,8 @@ work:
     company_name: Institute of Automation of the Chinese Academy of Sciences (CASIA)
     company_url: 'http://www.ia.cas.cn/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-07-03
+    date_end: 2023-01-04
 #    summary: |Responsibilities include:
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -124,4 +124,4 @@ languages:
 
 ## About Me
 
-Ruibo Fu is currently an Associate Researcher at Qiyuan La. He obtained his Bachelor of Engineering degree from Beihang University (BUAA) in 2015 and his Ph.D. in Engineering from the University of Chinese Academy of Sciences (UCAS) in 2020. In 2021, he was selected for the CAS Special Research Assistant Talent Support Program. His research focuses on multimodal information generation & understanding and computational audio intelligence. Over the past five years, he has led 9 national-level projects as principal investigator, including the National Key R&D Program of China, grants from the National Natural Science Foundation of China (NSFC), and major initiatives under national ministries and commissions, while contributing as a core member to 6 additional projects. He has authored 60+ peer-reviewed papers in top-tier journals and conferences, including Proceedings of the IEEE, ACM/IEEE Transactions on Audio, Speech, and Language Processing (TASLP), Artificial Intelligence, ICASSP, INTERSPEECH, NeurIPS, AAAI, and ACM Multimedia. He holds 17 granted patents in the U.S. and China and has received 5 first-place awards in academic competitions. Notably, he was awarded the Top Prize of the Wu Wenjun Artificial Intelligence Science and Technology Award (2022) and the First Prize of the Ministry of Public Security Science and Technology Award (2024).
+Ruibo Fu is currently an Associate Researcher at Qiyuan Lab. He obtained his Bachelor of Engineering degree from Beihang University (BUAA) in 2015 and his Ph.D. in Engineering from the University of Chinese Academy of Sciences (UCAS) in 2020. In 2021, he was selected for the CAS Special Research Assistant Talent Support Program. His research focuses on multimodal information generation & understanding and computational audio intelligence. Over the past five years, he has led 9 national-level projects as principal investigator, including the National Key R&D Program of China, grants from the National Natural Science Foundation of China (NSFC), and major initiatives under national ministries and commissions, while contributing as a core member to 6 additional projects. He has authored 60+ peer-reviewed papers in top-tier journals and conferences, including Proceedings of the IEEE, ACM/IEEE Transactions on Audio, Speech, and Language Processing (TASLP), Artificial Intelligence, ICASSP, INTERSPEECH, NeurIPS, AAAI, and ACM Multimedia. He holds 17 granted patents in the U.S. and China and has received 5 first-place awards in academic competitions. Notably, he was awarded the Top Prize of the Wu Wenjun Artificial Intelligence Science and Technology Award (2022) and the First Prize of the Ministry of Public Security Science and Technology Award (2024).
