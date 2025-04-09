@@ -29,9 +29,9 @@ sections:
       subtitle: ''
       text: |-
           I’m an Associate Professor at QY Lab, focusing on speech information processing, deepfake detection, multimodal content understanding/generation, and LLM applications.
-        I explore cutting-edge AI technologies to enhance information authenticity and advance human-centric multimodal systems.
-        I warmly welcome academic collaborations, industry partnerships, and interdisciplinary projects. Students (undergraduate, master’s, or PhD) are encouraged to join our group for internships—let’s publish high-impact papers together!
-        Reach out for research opportunities or exciting ideas 😃
+          I explore cutting-edge AI technologies to enhance information authenticity and advance human-centric multimodal systems.
+          I warmly welcome academic collaborations, industry partnerships, and interdisciplinary projects. Students (undergraduate, master’s, or PhD) are encouraged to join our group for internships—let’s publish high-impact papers together!
+          Reach out for research opportunities or exciting ideas 😃
     design:
       columns: '1'
   - block: collection
