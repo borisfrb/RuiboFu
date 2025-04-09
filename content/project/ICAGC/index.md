@@ -1,5 +1,5 @@
 ---
-title: CodecFake
+title: ICAGC
 date: 2024-11-10
 external_link: http://www.iscslp2024.com/Icagc
 tags:
