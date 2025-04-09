@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Codecfake
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: [https://github.com/pandas-dev/pandas](https://github.com/xieyuankun/Codecfake)
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This is the official repo of our work titled "The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio".
 
 <!--more-->
