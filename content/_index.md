@@ -13,7 +13,15 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: ""
       # Show a call-to-action button under your biography? (optional)
+      utton:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
