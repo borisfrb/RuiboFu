@@ -18,4 +18,5 @@ publication_types:
 - paper-conference
 publication: '*2024 IEEE 14th International Symposium on Chinese Spoken Language Processing
   (ISCSLP)*'
+featured: true
 ---
