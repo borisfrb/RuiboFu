@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'CASIA'
+    description: 'Researcher at THU Prof. Jianhua Tao Group.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-4DCS9Z8BVW'
