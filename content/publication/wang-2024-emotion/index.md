@@ -12,4 +12,5 @@ publishDate: '2025-04-09T07:52:08.498650Z'
 publication_types:
 - article-journal
 publication: '*Artificial Intelligence*'
+featured: true
 ---
